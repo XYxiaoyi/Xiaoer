@@ -1,0 +1,23 @@
+public class Person
+{
+  private int ID
+  {
+    get;
+    set;
+  }
+  private string Name
+  {
+    get;
+    set;
+  }
+  private int Sex
+  {
+    get;
+    set;
+  }
+  
+  public Person()
+  {
+    
+  }
+}
